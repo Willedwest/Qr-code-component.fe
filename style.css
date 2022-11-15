@@ -27,6 +27,7 @@ body{
   padding: 1rem ;
   padding-bottom: 2rem;
   border-radius: 18px;
+  box-shadow: 0 1px 20px rgba(0, 0, 0, 0.1);
 }
 
 .showcase div:first-child img{
@@ -48,13 +49,6 @@ body{
   text-align: center;
   margin-top: 0.5rem;
 }
-
-
-
-
-
-
-
 
 .attribution {
   font-size: 11px;
